@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @b3n3d17
+- 👋 Hi there, I’m [Benedikt](https://hofmannb.dev) 👋
 - 👀 I’m interested in Blockchain, Container and K8s Security and Privacy.
 - 🌱 I’m currently learning Solidity and Fabric Private Chaincodes
 - 📫 Discord: Benedikt#0806
+- 
 
 <!---
 b3n3d17/b3n3d17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
