@@ -1,4 +1,4 @@
 - 👋 Hi there, I’m [Benedikt](https://hofmannb.dev) 👋
 - 👀 I’m interested in Container and K8s Security, Privacy, and Blockchain.
-- 🌱 I’m currently Go
+- 🌱 I’m currently working with Hyperledger Aries
 - 📫 Discord: Benedikt#0806
